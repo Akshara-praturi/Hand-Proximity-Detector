@@ -1,0 +1,17 @@
+# Ignore virtual environment
+myenv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore environment/IDE/config files
+.env
+*.env
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
